@@ -6,4 +6,6 @@ Proyecto con Expo
     npm install
     expo start
 [Presentación](https://1drv.ms/p/s!AgXZSJXBJmxmlOR7XniHZvtMIedeQA)
+
 [Ver demo de proyecto final.](https://www.youtube.com/watch?v=4BZTGNLCiwU)
+
